@@ -16,6 +16,10 @@
     <input type="text" placeholder="Enter Address" name="address" id="address" required>
     <br>
 
+    <label for="pin"><b>Enter PIN Code</b></label>
+    <input type="text" placeholder="Enter PIN" name="pin" id="pin" required>
+    <br>
+
 
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
