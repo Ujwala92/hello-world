@@ -17,7 +17,7 @@
     <br><br>
 
     <label for="pin"><b>Enter PIN Code</b></label>
-    <input type="text" placeholder="Enter PIN" name="pin" id="pin" required>
+    <input type="text" placeholder="Enter PIN COde" name="pin" id="pin" required>
     <br><br>
 
 
