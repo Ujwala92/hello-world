@@ -17,7 +17,7 @@
     <br><br>
 
     <label for="pin"><b>Enter PIN Code</b></label>
-    <input type="text" placeholder="Enter PIN" name="pin" id="pin" required>
+    <input type="text" placeholder="Enter PIN Code" name="pin" id="pin" required>
     <br><br>
 
 
@@ -34,13 +34,13 @@
     <hr>
     <br>
     <p>By creating an account you agree to our <a href="#">Terms and Privacy</a>.</p>
-    <button type="submit" class="registerbtn">Register</button>
+    <button type="submit" class="registerbtn">Register Here</button>
   </div>
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you, Happy Learning!....... </h1>
+   <h1> Thank you, Happy Learning!!!... </h1>
 
   
 </form>
